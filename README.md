@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Vyjayanthi 👋
 
-<!--
-**immanuelvyjayanthi-blip/immanuelvyjayanthi-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ GRC & Cybersecurity Professional
 
-Here are some ideas to get you started:
+I'm passionate about building resilient, compliant security programs that align with business goals. My strength lies in translating technical controls into business risk language—helping organizations not just meet compliance objectives, but truly understand their risk posture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## ⚙️ Expertise & Interests
+
+- **Governance:** Policy Development, Security Frameworks, Strategic Alignment  
+- **Risk Management:** Risk Assessments (Vendor, IT, Organizational), FAIR Methodology, Risk Registers  
+- **Compliance:** NIST CSF, ISO 27001, SOC 2, GDPR, HIPAA  
+- **Tools:** Excel/Sheets 
+
+---
+
+## 📂 Portfolio Highlights
+
+Here are a few projects that showcase my approach to GRC:
+
+- [**Risk Register**](https://github.com/immanuelvyjayanthi-blip/risk-register): A foundational tool for identifying, analyzing, and mitigating risks. This project demonstrates my structured approach to risk tracking and prioritization.
+
+*More coming soon—stay tuned!*
+
+---
+
+## 💬 Let’s Connect
+
+I'm always open to exchanging ideas, mentoring, or collaborating on GRC and cybersecurity initiatives.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or drop me a message here on GitHub.
+
+---
+
+> When I'm not mapping controls to frameworks, I'm probably exploring cybersecurity podcasts or helping others navigate the world of compliance.
+
+
+- 🔭 Currently building out my GitHub profile to showcase GRC and cybersecurity projects  
+- 🌱 Studying for the **CRISC** certification to deepen my expertise in risk management  
+- 👯 Open to collaborating on audit, risk assessments, and compliance initiatives  
+- 💬 Ask me about audit strategies, risk frameworks, or how to align controls with business objectives  
 -->
