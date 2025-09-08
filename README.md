@@ -39,4 +39,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) 
 - 🌱 Studying for the **CRISC** certification to deepen my expertise in risk management  
 - 👯 Open to collaborating on audit, risk assessments, and compliance initiatives  
 - 💬 Ask me about audit strategies, risk frameworks, or how to align controls with business objectives  
--->
+
