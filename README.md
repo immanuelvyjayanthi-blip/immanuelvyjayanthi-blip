@@ -11,7 +11,8 @@ I'm passionate about building resilient, compliant security programs that align 
 - **Governance:** Policy Development, Security Frameworks, Strategic Alignment  
 - **Risk Management:** Risk Assessments (Vendor, IT, Organizational), FAIR Methodology, Risk Registers  
 - **Compliance:** NIST CSF, ISO 27001, SOC 2, GDPR, HIPAA  
-- **Tools:** Excel/Sheets 
+- **Tools:** Excel/Sheets (for risk registers and assessments).
+  Learning GRC platforms to enhance automation and reporting capabilities.
 
 ---
 
@@ -28,7 +29,7 @@ Here are a few projects that showcase my approach to GRC:
 ## 💬 Let’s Connect
 
 I'm always open to exchanging ideas, mentoring, or collaborating on GRC and cybersecurity initiatives.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or drop me a message here on GitHub.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vj-immanuel/) or drop me a message here on GitHub.
 
 ---
 
