@@ -20,7 +20,8 @@ I'm passionate about building resilient, compliant security programs that align 
 
 Here are a few projects that showcase my approach to GRC:
 
-- [**Risk Register**](https://github.com/immanuelvyjayanthi-blip/risk-register): A foundational tool for identifying, analyzing, and mitigating risks. This project demonstrates my structured approach to risk tracking and prioritization.
+1.  **[Risk Register](https://github.com/your-username/risk-register):** A foundational tool for identifying, analyzing, and mitigating risks. This project demonstrates my structured approach to risk tracking and prioritization.
+2.  **[Acceptable Use Policy](https://github.com/your-username/acceptable-use-policy-sample):** A sample policy drafted for **PixelPaddle Studios**, a hypothetical game dev company. This project showcases my skills in **policy development** and **tailoring security controls** to protect critical assets like unreleased game code.
 
 *More coming soon—stay tuned!*
 
