@@ -2,7 +2,7 @@
 
 ### 🛡️ GRC & Cybersecurity Professional
 
-I'm passionate about building resilient, compliant security programs that align with business goals. My strength lies in translating technical controls into business risk language—helping organizations not just meet compliance objectives, but truly understand their risk posture.
+I love building security programs that actually work—not just on paper, but in the real world. I focus on making them resilient, compliant, and aligned with what the business is trying to achieve. What I really enjoy is bridging the gap between technical controls and business risk. I help teams move beyond just checking the compliance boxes to truly understanding their risk landscape and making smarter decisions.
 
 ---
 
